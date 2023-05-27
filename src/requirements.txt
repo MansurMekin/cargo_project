@@ -1,0 +1,13 @@
+geopy==2.3.0
+SQLAlchemy==1.4.41
+fastapi==0.88.0
+psycopg2-binary==2.9.5
+SQLAlchemy==1.4.41
+uvicorn==0.21.1
+python-dotenv==0.14.0
+
+
+# dev
+pytest==7.2.0
+httpx==0.23.1
+requests==2.30.0
